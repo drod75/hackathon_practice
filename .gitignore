@@ -122,7 +122,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-hackathon/
+**hackathon/
 .env
 .venv
 env/
